@@ -1,0 +1,4 @@
+﻿  main.cpp
+main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  VectorTracking.vcxproj -> C:\Users\ajzhang\Desktop\Camera_SDK\Samples\VectorTracking\..\bin\Debug\VectorTracking.exe
+  VectorTracking.vcxproj -> ..\bin\Debug\VectorTracking.pdb (Full PDB)

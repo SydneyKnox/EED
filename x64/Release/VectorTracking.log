@@ -1,0 +1,4 @@
+﻿  main.cpp
+  supportcode.cpp
+supportcode.cpp(389): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+LINK : fatal error LNK1181: cannot open input file 'CameraLibrary2008S.lib'
