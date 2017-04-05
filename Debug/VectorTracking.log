@@ -1,4 +1,4 @@
-﻿  main.cpp
-main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+﻿  supportcode.cpp
+c:\users\ajzhang\desktop\camera_sdk\samples\vectortracking\supportcode.cpp(389): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
   VectorTracking.vcxproj -> C:\Users\ajzhang\Desktop\Camera_SDK\Samples\VectorTracking\..\bin\Debug\VectorTracking.exe
   VectorTracking.vcxproj -> ..\bin\Debug\VectorTracking.pdb (Full PDB)

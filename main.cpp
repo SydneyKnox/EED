@@ -6,11 +6,11 @@
 //== This sample brings up a connected camera and displays it's output frames.
 //=================================================================================-----
 
-#include "supportcode.h"       //== Boiler-plate code for application window init ===---
-#include "cameralibrary.h"     //== Camera Library header file ======================---
-#include "modulevector.h"
-#include "modulevectorprocessing.h"
-#include "coremath.h"
+#include "include/supportcode.h"       //== Boiler-plate code for application window init ===---
+#include "include/cameralibrary.h"     //== Camera Library header file ======================---
+#include "include/modulevector.h"
+#include "include/modulevectorprocessing.h"
+#include "include/coremath.h"
 
 #include <gl/glu.h>
 

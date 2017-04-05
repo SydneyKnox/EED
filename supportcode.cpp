@@ -9,11 +9,11 @@
 #include <stdio.h>			// Header File For Standard Input/Output
 #include <gl\gl.h>			// Header File For The OpenGL32 Library
 #include <gl\glu.h>			// Header File For The GLu32 Library
-#include "cameralibrary.h"
-#include "cameramanager.h"
+#include "include/cameralibrary.h"
+#include "include/cameramanager.h"
 #include "math.h"
 #include "stdio.h"
-#include "supportcode.h"
+#include "include/supportcode.h"
 
 int         gWindowWidth ;
 int         gWindowHeight;
